@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Confession and execution of the two prisoners that suffered at Tyburn on Munday the 16th of Decemb., 1678 viz, Nathaniel Russel, a bayley's follower, for murdering a young man in Whites-Alley : and Steven Arrowsmith, for a rape commited on a girl between eight and nine years of age : giving a true account of their behaviour after condemnation, the substance of the discourses that past between them and Mr. Ordinary in Newgate that morning before they went into the cart, and their speeches at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34235</idno>
+            <idno type="STC">Wing C5757</idno>
+            <idno type="STC">ESTC R35607</idno>
+            <idno type="EEBO-CITATION">15491372</idno>
+            <idno type="OCLC">ocm 15491372</idno>
+            <idno type="VID">103569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103569)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1186:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Confession and execution of the two prisoners that suffered at Tyburn on Munday the 16th of Decemb., 1678 viz, Nathaniel Russel, a bayley's follower, for murdering a young man in Whites-Alley : and Steven Arrowsmith, for a rape commited on a girl between eight and nine years of age : giving a true account of their behaviour after condemnation, the substance of the discourses that past between them and Mr. Ordinary in Newgate that morning before they went into the cart, and their speeches at the place of execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russel, Nathaniel, d. 1678.</term>
+               <term>Arrowsmith, Steven, d. 1678.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103569:1"/>
+            <pb facs="tcp:103569:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION Of the Two Priſoners that ſuffered at TYBURN On <hi>Munday</hi> the 16th of <hi>Decemb.</hi> 1678.</p>
+            <p>VIZ. <hi>Nathaniel Ruſſel,</hi> a Bayley's Follower, for Murdering a young man in <hi>Whites-Alley.</hi>
+            </p>
+            <p>AND <hi>Steven Arrowſmith,</hi> for a Rape commited on a Girl between Eight and Nine years of age.</p>
+            <p>GIVING A true Account of their Behaviour after Condemna<g ref="char:EOLhyphen"/>tion; the ſubſtance of the Diſcourſes that paſt between them and Mr. Ordinary in <hi>Newgate</hi> that morning before they went into the Cart; and their Speeches at the place of Exe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>LICENSED, 1678.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. G.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:103569:2"/>
+            <pb n="3" facs="tcp:103569:2" rendition="simple:additions"/>
+            <head>The Confeſsion and Execution of the Two Priſoners that ſuffered at <hi>Tyburn.</hi>
+            </head>
+            <p>ON Thurſday the 12th of this inſtant <hi>December,</hi> Six perſons in all received ſentence of Death: One for Murther, one for a Rape, one for Trea<g ref="char:EOLhyphen"/>ſon, one for Clipping of Money, one for ſtealing a Mare, and a woman and a man (old Offenders) for ſeveral Felonies. Of theſe, Four obtained his Majeſties gra<g ref="char:EOLhyphen"/>cious Reprieve: The other Two, <hi>viz. Nathaniel Ruſſel,</hi> for Murthering of a young man; and <hi>Steeven Arrowſmith,</hi> for abu<g ref="char:EOLhyphen"/>ſing and Raviſhing a Girl between Eight and Nine years of age, were ordered for Execution on <hi>Munday</hi> the 16th of this inſtant <hi>Decemb.</hi>
+            </p>
+            <p>Their Crimes were thus: A Bayley and his Follower in <hi>White</hi>'s-Alley, by Vertue of a Marſhals Writ; went up into a Chamber, having the Door open'd to them, to Ar<g ref="char:EOLhyphen"/>reſt a young Gentlewoman; her Brother, a lad about Seven<g ref="char:EOLhyphen"/>teen or Eighteen years of age, being with her, ſtood before her with a piece of a Curtain-rod in his hand; the Barley com<g ref="char:EOLhyphen"/>ing up to him, ſhov'd him down in a Chair, and preſently the Follower, having his Sword drawn before he came into the Room, run him into the Body; ſo that he cryed out, he was kill'd, as indeed it proved: for on the Thurſday-night follow<g ref="char:EOLhyphen"/>ing he died, being run through the Liver and Midrif. It was proved by three Witneſſes that the young man neither ſtruck nor thruſt at the Baylies, nor gave any provocation; and that
+<pb n="4" facs="tcp:103569:3" rendition="simple:additions"/> the Wound was given before any Arreſt made: nor did they take away the young woman as Priſoner, but returned a Reſcue upon the perſon dead. The Bayly alleadged his Warrant, juſti<g ref="char:EOLhyphen"/>fying his coming there; but diſown'd that he any way contri<g ref="char:EOLhyphen"/>buted to the Fact, and was acquitted. The Follower had little material to ſay for himſelf, onely alleadged, that the young man made at him with a Spit, which he took for a Sword, and threat<g ref="char:EOLhyphen"/>ned to kill him; contrary to Witneſſes call'd even by themſelves: And ſo was found guilty of Wilful Murther, as aforeſaid.</p>
+            <p>The other being a Prentice to Victualler in <hi>Barking-</hi>pariſh, was indicted on the Statute, for having the carnal knowledge and abuſing his Maſters Daughter, a Childe between eight and nine of age. It appeared he had ſeduced her with Money, and abuſed her ſeveral Sundays as having then moſt opportunity, for many weeks together, till at laſt the Childe being much hurt, was ſcarce able to go, and then with much ado ſhe diſcovered it. The ſeveral Circumſtances, though they were neceſſary there to be proved, are too foul and unſeemly here to be related. The Childe her ſelf teſtified it fully, and another Girl about ten years old, gave Evidence what poſture ſhe once ſaw them in; and four or five women proved the wrong done to the Childe upon their view of her body, and what a ſad Diſeaſe was thereby contracted: ſo that the Evidence ſeem'd as home as could poſſibly be expected in a Crime of this kind; yet the Jury at firſt appeared diſſatisfied, but on better advice, and more mature conſideration, juſtly brought him in Guilty: for which he now ſuffer'd. A fit Warning for all laſcivious perſons to deter them from the horrid practices of debauching and ruining poor Children of ſuch tender years; it being Death by the Law to have Carnal knowledge of any Fe<g ref="char:EOLhyphen"/>male childe under Ten years of age, even although with her Con<g ref="char:EOLhyphen"/>ſent: which from thoſe ſo young is reaſonably preſum'd to pro<g ref="char:EOLhyphen"/>ceed from an innocent Indiſcretion and Ignorance of what they are tempted to.</p>
+            <pb n="5" facs="tcp:103569:3" rendition="simple:additions"/>
+            <p>During the ſhort ſpace between Sentence and Ex<g ref="char:EOLhyphen"/>ecution Mr. <hi>Ordinary</hi> took great pains with them, both in private Exhortations, and in his Sermons on the Lords day, and God was pleaſed to bleſs his good endeavours with ſuch ſucceſs, that they both at laſt, in the judgment of Charity appeared very penitent and fit to dye. On Munday morning about nine a clock, the ſaid two Priſoners, and another young Man Condemned for Clipping, were brought into the Hall of <hi>Newgate,</hi> where Mr. <hi>Ordinary</hi> applied himſelf to them in a very pertinent and preſſing diſcourſe, ſuitable to their condition, and in the proceſs there<g ref="char:EOLhyphen"/>of, ſpeaking particularly to <hi>Ruſſel,</hi> he askt him, what hopes he had of Salvation, and upon what grounds? to which, lifting up his hands and eyes, he anſwered, that though he were a vile ſinner, and his ſins innumerable (repeating that word two or three times) yet he hoped and truſted to be ſaved by the infinite mercies of God in Chriſt Jeſus, and that he had prayed earneſtly for pardon, and had hopes that God would grant it him, and then of his own accord fell into Prayer with much affection, and words as apt as could be expected from a perſon of his Education. After that, Mr. <hi>Ordinary</hi> inſtructed him more fully in the nature of the terms on which pardon from God was to be obtained, that he muſt pray not only for a pardon, but to have his heart changed and ſanctified by Regeneration; and then proceeded to inquire concerning the Fact for which he died, laying open the hainouſneſs of the ſin, to which the Priſoner replyed, that he did believe the
+<pb n="6" facs="tcp:103569:4" rendition="simple:additions"/> Man dyed by his Sword, but affirmed, he had no intention either to kill or wound him; and that he himſelf could not certainly tell how it happened, be<g ref="char:EOLhyphen"/>ing in the Evening, and done ſuddenly in an hurry, but denyed that the perſon deceaſed was puſhed or held down by any body in a Chair. Mr. <hi>Ordinary</hi> told him, ſure he formerly had been guilty of many grie<g ref="char:EOLhyphen"/>vous ſins, that God ſhould ſo give him up to ſuch a Fact without any provocation, prividence oft-times puniſhing great ſins with greater; to this he anſered, by confeſſing, that all his life he had run on in a courſe of wickedneſs and rebellion againſt God, and parti<g ref="char:EOLhyphen"/>cularly bewailled with tears, his continual breach and neglect of the Sabbath and Religious Duties.</p>
+            <p>Then Mr <hi>Ordinary</hi> ſpake particularly to <hi>Stephen Arrowſmith,</hi> who with many tears deplored his condi<g ref="char:EOLhyphen"/>tion, yet bleſſed God that he had generally led a very civil life; never was guilty of Theft, nor a frequenter of idle naughty houſes, but uſed to hear very good Miniſters, and rarely neglected his duty on the Sab<g ref="char:EOLhyphen"/>bath, ſave only to viſit his Parents, till Satan ſedu<g ref="char:EOLhyphen"/>ced him to this abominable wickedneſs, which he now very freely confeſt himſelf guilty of, and that he deſerved to ſuffer for the ſame, which was great ſatiſ<g ref="char:EOLhyphen"/>faction to ſome preſent, to whom he before refuſed to acknowledge it. They both declared, that they were willing to dye, and dyed in the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and expected Salvation not by any Righte<g ref="char:EOLhyphen"/>ouſneſs or Works of their own, which were nothing but ſin and vileneſs, but only and meerly by the paſ<g ref="char:EOLhyphen"/>ſion and merits of the Lord Jeſus. <hi>Ruſſel</hi> had before
+<pb n="7" facs="tcp:103569:4" rendition="simple:additions"/> expreſt ſomething to one of the other perſons Con<g ref="char:EOLhyphen"/>demned, as he informed againſt him, as if he did not believe, or doubted whether there were any Local Hell. But Mr <hi>Ordinary</hi> inquired of him his belief in that point, whereupon, he replyed, that he was well ſatisfied that there was a real place of Hell, and did truſt God would deliver his Soul from it, and admit him into the Kingdome of Glory.</p>
+            <p>Then Mr. Ordinary prayed with, and for them, a conſiderable time very affectionately, and with great enlargement towards their particular Circum<g ref="char:EOLhyphen"/>ſtances; they attending very reverently on their Knees. After which another Miniſter came in, and gave them ſome Exhortation, and likewiſe prayed with them; then declaring to them, that the onely ſervice they could now do Godward, would be to warn others at the place of Execution to avoid Paſ<g ref="char:EOLhyphen"/>ſion, Uncleanneſs, and all other ſins themſelves had poſſibly been guilty of, and which hath brought them to this untimely end: And deſiring them to com<g ref="char:EOLhyphen"/>poſe themſelves, and keep their Hearts cloſe to God, the Miniſters for the preſent recommended them to God, and they were carried down to the Cart, de<g ref="char:EOLhyphen"/>ſiring moſt heartily, as they went, all people to pray for them. When they were putting on the Halters in the Lodge, he that did it, after it was on, aſked <hi>Ruſſel</hi> if it hurt him?—<hi>'Tis,</hi> ſaith he, <hi>ſomewhat ſtreight; but</hi> (with a low voice, as to himſelf) <hi>no<g ref="char:EOLhyphen"/>thing can hurt me but ſin.</hi>
+            </p>
+            <p>At the place of Execution, the Ordinary exhorted and prayed for them, as likewiſe they for themſelves.
+<pb n="8" facs="tcp:103569:5" rendition="simple:additions"/> Then they did freely of themſelves warn all Specta<g ref="char:EOLhyphen"/>tors to take heed by their fatal Example of all Sin in general, and that they would get and maintain the Fear of God in their Hearts. <hi>Ruſſel</hi> in particular deſired them to beware of the great ſin of Sabbath<g ref="char:EOLhyphen"/>profanation, as alſo of lewd Company, raſh Paſſion, and Drunkenneſs. <hi>Arrowſmith</hi> acknowledged his Crime there again, and that he had often deſired to reſort to the publick Aſſemblies of God's people, but was detained from them by a perſon who ſhould rather have encouraged him to it. He alſo ſaid, that though he never took to any vitious courſe, yet as to his Crime of Brutiſh Luſt, for which he ſuffered the penalty of the Law, he was ſurprized by the vio<g ref="char:EOLhyphen"/>lent temptation of Satan, for which he could never ſufficiently repent.</p>
+            <p>Upon conſideration of the whole, and more that might be ſaid, it is charitably believed that they both died very penitent, and with greater hope of their happy ſtate than moſt that ſuffer death at that igno<g ref="char:EOLhyphen"/>minious place.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103569:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
